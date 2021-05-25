@@ -1,12 +1,12 @@
 {
   "name": "@benestudioco/cra-template-monorepo",
-  "version": "1.0.0",
+  "version": "1.0.0-example.0",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
-  "description": "A modified version of the base template",
+  "description": "A modified version of the base template for creating a monorepo. Strongly depends on @benestudioco/react-scripts",
   "main": "template.json",
   "repository": {
     "type": "git",
