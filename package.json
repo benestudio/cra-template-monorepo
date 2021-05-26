@@ -1,6 +1,6 @@
 {
   "name": "@benestudioco/cra-template-monorepo",
-  "version": "1.0.0-example.1",
+  "version": "1.0.0-example.2",
   "keywords": [
     "react",
     "create-react-app",
@@ -10,7 +10,7 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://brozlev@bitbucket.org/brozlev/custom-cra-template.git",
+    "url": "https://github.com/benestudio/cra-template-monorepo.git",
     "directory": "packages/custom-cra-template"
   },
   "license": "MIT",
